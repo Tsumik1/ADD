@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}</ProjectGuid>
+	<ProjectGuid>{E57A2195-BDB6-D408-8E56-B5FB44332889}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -18,7 +18,7 @@
 	<DebugType>full</DebugType>
 	<Optimize>false</Optimize>
 	<OutputPath>Temp\bin\Debug\</OutputPath>
-	<DefineConstants>DEBUG;TRACE;UNITY_3_5_5;UNITY_3_5;UNITY_EDITOR;ENABLE_PROFILER;UNITY_STANDALONE_WIN;ENABLE_GENERICS;ENABLE_DUCK_TYPING;ENABLE_TERRAIN;ENABLE_MOVIES;ENABLE_WEBCAM;ENABLE_MICROPHONE;ENABLE_NETWORK;ENABLE_CLOTH;ENABLE_WWW;ENABLE_SUBSTANCE</DefineConstants>
+	<DefineConstants>DEBUG;TRACE;UNITY_3_5_6;UNITY_3_5;UNITY_EDITOR;ENABLE_PROFILER;UNITY_STANDALONE_WIN;ENABLE_GENERICS;ENABLE_DUCK_TYPING;ENABLE_TERRAIN;ENABLE_MOVIES;ENABLE_WEBCAM;ENABLE_MICROPHONE;ENABLE_NETWORK;ENABLE_CLOTH;ENABLE_WWW;ENABLE_SUBSTANCE</DefineConstants>
 	<ErrorReport>prompt</ErrorReport>
 	<WarningLevel>4</WarningLevel>
 	<NoWarn>0169</NoWarn>
@@ -44,7 +44,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\GUI\ButtonBehaviour.cs" />
+     <Compile Include="Assets\Scripts\GUI\Buttons\ButtonBehaviour.cs" />
+     <Compile Include="Assets\Scripts\GUI\Buttons\MoveButton.cs" />
      <Compile Include="Assets\Scripts\GUI\CreateTowerOnClicked.cs" />
      <Compile Include="Assets\Scripts\GUI\DetectClicksAndTouches.cs" />
      <Compile Include="Assets\Scripts\GUI\GameOver\PlayAgain.cs" />
@@ -55,8 +56,10 @@
      <Compile Include="Assets\Scripts\GUI\ScrollTexture.cs" />
      <Compile Include="Assets\Scripts\GUI\SelectTowerOnClicked.cs" />
      <Compile Include="Assets\Scripts\GUI\TimeManager.cs" />
+     <Compile Include="Assets\Scripts\GUI\TowerManager.cs" />
      <Compile Include="Assets\Scripts\GUI\TowerSelect.cs" />
      <Compile Include="Assets\Scripts\GameObjects\Base\BaseScript.cs" />
+     <Compile Include="Assets\Scripts\GameObjects\Base\DestroyOnClick.cs" />
      <Compile Include="Assets\Scripts\GameObjects\Bullets\BasicBullet.cs" />
      <Compile Include="Assets\Scripts\GameObjects\Bullets\Mortar.cs" />
      <Compile Include="Assets\Scripts\GameObjects\Bullets\MortarAI.cs" />
@@ -81,9 +84,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{21EA18CC-2A22-285D-1CA4-EFE21EFA99D3}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{707BDA78-B920-D167-1DA4-ECB06BAEB216}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
-      <Project>{F47AF338-7682-8375-581E-D61D5164C239}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+      <Project>{1899AF9C-BD6B-8FB1-7AEF-23BA34FB4C35}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

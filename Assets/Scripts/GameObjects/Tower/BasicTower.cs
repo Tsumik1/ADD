@@ -74,12 +74,16 @@ public class BasicTower : MonoBehaviour {
 		}
 	}
 	
-	public void EnableFiring()
+	public void EnableFiring ()
 	{
 		isOn = true; 
 		helper.renderer.enabled = false;
 	}
 	
+	public void TurnHelperOn()
+	{
+		helper.renderer.enabled = true;
+	}
 	
 	
 	public bool GetSelected()
@@ -87,20 +91,19 @@ public class BasicTower : MonoBehaviour {
 		return selected;
 	}
 	
-	void Clicked()
+	void Clicked ()
 	{
 		BasicTower[] towers = FindObjectsOfType (typeof(BasicTower)) as BasicTower[];
 		
-			for(int i = 0; i< towers.Length;i++)
-			{
-				if(towers[i].transform != transform)
-				{
-					towers[i].helper.renderer.enabled = false; 
-					towers[i].selected = false;
-				}
+		for (int i = 0; i< towers.Length; i++) {
+			if (towers [i].transform != transform) {
+				towers [i].helper.renderer.enabled = false; 
+				towers [i].selected = false;
 			}
+		}
 		
 		selected = true; 
+		TowerManager.SetSelected (this.gameObject);
 		helper.renderer.enabled = true; 
 
 	}

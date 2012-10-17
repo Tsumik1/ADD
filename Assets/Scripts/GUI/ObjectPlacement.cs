@@ -26,7 +26,7 @@ public class ObjectPlacement : MonoBehaviour {
 	private Vector3 destinationPosition;		// The destination Point
 	private float destinationDistance;			// The distance between myTransform and destinationPosition
  	private bool validPlace = true; 
-	private bool isPlaced = false; 
+	public bool isPlaced = false; 
 	private Color defaultColour;
 	//private Component script;
 	public float moveSpeed;						// The Speed the character will move
@@ -109,7 +109,9 @@ public class ObjectPlacement : MonoBehaviour {
 			isPlaced = true;
 			//BasicTower script = GetComponent ("BasicTower") as BasicTower;
 			SendMessage("EnableFiring");
-			Destroy (this);
+			//Destroy (this);
+			this.enabled = false;
+			
 		}
 		
 		if(Input.GetMouseButtonDown (1))
