@@ -1,0 +1,1309 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.623]
+    Renderer: NVIDIA GeForce GTX 560 Ti  
+    Vendor:   NVIDIA
+    VRAM:     978 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 3.5.5f3
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\TowerDefense\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\TowerDefense\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\TowerDefense\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\TowerDefense\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\TowerDefense\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\TowerDefense\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\TowerDefense\test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\TowerDefense\test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\TowerDefense\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\TowerDefense\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 151 unused Assets to reduce memory usage. Loaded Objects now: 169. Operation took 5.445661 ms.
+You clicked Cube
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 468. Operation took 4.805597 ms.
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 150 unused Assets to reduce memory usage. Loaded Objects now: 169. Operation took 5.315836 ms.
+You clicked Cube
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 468. Operation took 4.657643 ms.
+You clicked Base
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Selected
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked MoveButton
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked Ground
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked UpgradeButton
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Bullet
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+You clicked BasicTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+You clicked BasicTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 168 unused Assets to reduce memory usage. Loaded Objects now: 183. Operation took 5.680166 ms.
+You clicked Cube
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 482. Operation took 4.779574 ms.
+You clicked Ground
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Plasma
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Plasma
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Missile
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked PlasmaTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Rocket
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked MortarTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 154 unused Assets to reduce memory usage. Loaded Objects now: 183. Operation took 5.464667 ms.
+You clicked Cube
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 482. Operation took 4.502963 ms.
+You clicked TowerUI_Bullet
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+You clicked BasicTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 152 unused Assets to reduce memory usage. Loaded Objects now: 183. Operation took 5.350339 ms.
+You clicked Cube
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 482. Operation took 4.759983 ms.
+You clicked Base
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Plasma
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+You clicked PlasmaTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Bullet
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+You clicked BasicTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Bullet
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+You clicked BasicTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Bullet
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+You clicked BasicTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+You clicked BasicTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Bullet
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+You clicked BasicTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You clicked TowerUI_Plasma
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+You clicked PlasmaTower(Clone)
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+GotToBase
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No more enemies
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
