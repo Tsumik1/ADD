@@ -7,10 +7,13 @@ public class BasicBullet : MonoBehaviour {
 	public GameObject shards; 
 	public float bulletLife = 1.5f;
 	public int damage = 10; 
+	
 	// Use this for initialization
 	void Start () 
 	{
 		Invoke ("RemoveFromScreen", bulletLife);
+		damage = transform.parent.GetComponent<BasicTower>().GetDamage();
+		//print(damage);
 	}
 	
 	void RemoveFromScreen()
@@ -28,6 +31,7 @@ public class BasicBullet : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
+		transform.parent = null;
 	}
 	
 		void OnCollisionEnter(Collision other)

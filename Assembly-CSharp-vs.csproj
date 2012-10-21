@@ -44,8 +44,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\HealthBar.cs" />
      <Compile Include="Assets\Scripts\GUI\Buttons\ButtonBehaviour.cs" />
      <Compile Include="Assets\Scripts\GUI\Buttons\MoveButton.cs" />
+     <Compile Include="Assets\Scripts\GUI\Buttons\UpgradeButton.cs" />
      <Compile Include="Assets\Scripts\GUI\CreateTowerOnClicked.cs" />
      <Compile Include="Assets\Scripts\GUI\DetectClicksAndTouches.cs" />
      <Compile Include="Assets\Scripts\GUI\GameOver\PlayAgain.cs" />
@@ -70,11 +72,14 @@
      <Compile Include="Assets\Scripts\GameObjects\Enemy\EnergyBonusOnDestroy.cs" />
      <Compile Include="Assets\Scripts\GameObjects\Enemy\PathThroughObjects.cs" />
      <Compile Include="Assets\Scripts\GameObjects\Enemy\RestoreCondition.cs" />
+     <Compile Include="Assets\Scripts\GameObjects\Generic\DestroyParent.cs" />
+     <Compile Include="Assets\Scripts\GameObjects\Generic\ObjectPlacementManager.cs" />
      <Compile Include="Assets\Scripts\GameObjects\Tower\BasicTower.cs" />
      <Compile Include="Assets\Scripts\GameObjects\Tower\MortarTower.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
+     <None Include="Assets\Scripts\Shaders\ProgressBar.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Detonator\Resources\Detonator\Textures\HeatDistort.shader" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />

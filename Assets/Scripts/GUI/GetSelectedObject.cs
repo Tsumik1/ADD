@@ -24,7 +24,7 @@ public class GetSelectedObject : MonoBehaviour {
 					current.mesh = replacement.mesh; 
 					Vector3 newScale = new Vector3(0.09f,0.09f,0.09f);
 					transform.localScale = newScale; 
-				Vector3 newRotation = new Vector3(0f,90f,0f);
+					Vector3 newRotation = new Vector3(0f,90f,0f);
 					transform.eulerAngles = newRotation;
 					transform.renderer.material = towers[i].renderer.material; 
 				}
